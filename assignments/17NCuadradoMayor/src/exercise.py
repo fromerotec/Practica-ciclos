@@ -1,14 +1,6 @@
-
-
 def main():
-    numero = int(input("Escribe un numero : "))
-
-    resultado = 1
-
-    while( resultado*resultado <= numero ):
-        resultado = resultado +1
-
-    print(resultado)
+    #escribe tu código abajo de esta línea
+    pass
 
 
 if __name__=='__main__':
