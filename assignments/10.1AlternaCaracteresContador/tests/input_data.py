@@ -9,9 +9,9 @@ input_values = [
 
 # List of lists, where each inner list has all the output/prints that end in the terminal
 output_values = [
-    ["ingresa un numero","1-#","2-%","3-#","4-%","5-#","6-%","7-#"],
-    ["ingresa un numero","1-#","2-%","3-#","4-%","5-#","6-%","7-#","8-%","9-#","10-%"],
-    ["ingresa un numero"]
+    ["Entrada: ","1-#","2-%","3-#","4-%","5-#","6-%","7-#"],
+    ["Entrada: ","1-#","2-%","3-#","4-%","5-#","6-%","7-#","8-%","9-#","10-%"],
+    ["Entrada: "]
     ]
 
 # List of hints for each test, in case of an error
